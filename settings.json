@@ -1,0 +1,41 @@
+"workbench.colorCustomizations": {
+        "[Monokai]": {
+            "sideBar.background": "#060211",
+            "sideBar.foreground": "#b7ffea",
+            "sideBarSectionHeader.background": "#030009",
+
+            "menu.background": "#030009",
+            "menu.foreground": "#00ffa6",
+
+            "titleBar.activeBackground": "#030009",
+            "titleBar.activeForeground": "#00fdb1",
+
+            "sideBar.border": "#00f8c2",
+            "statusBar.background": "#030009",
+            "statusBar.foreground": "#6cffa9",
+            
+            "scrollbar.shadow": "#00ffa6",
+            "scrollbarSlider.activeBackground": "#00fd6a",
+
+            "breadcrumb.focusForeground": "#ff3300",
+
+            "input.background": "#030009",
+            "input.foreground": "#00fd6a",
+            "input.placeholderForeground": "#ff50d9",
+            "input.border": "#00fd6a",
+
+            "tab.activeBackground": "#030009",
+            "tab.activeForeground": "#00ffa6",
+            "tab.inactiveBackground": "#0c012b",
+            "tab.inactiveForeground": "#c3ffea",
+
+            "terminal.background": "#000000",
+            "terminal.foreground": "#00ffa6",
+
+            "activityBar.foreground": "#00ffa6",
+            "activityBar.background": "#030009",
+
+            "editor.background": "#030009",
+            "editorCursor.foreground": "#00ff73"
+        }
+    }
