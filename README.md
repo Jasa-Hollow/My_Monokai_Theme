@@ -13,4 +13,6 @@ Below them, paste the code that I have placed in this repository.
 
 In any case, you can leave a comment. 
 
+![alt text](https://raw.githubusercontent.com/Jasa-Hollow/My_Monokai_Theme/path/to/img.png) 
+
 # Thank you!
